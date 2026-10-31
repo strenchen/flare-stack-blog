@@ -1,0 +1,9 @@
+{
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "blog-db",
+      "database_id": "f3305f10-5944-49ef-a991-b2d251c86040"
+    }
+  ]
+}
