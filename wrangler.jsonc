@@ -1,6 +1,5 @@
 {
-  "name": "flare-blog",   // ← 改这里，原来是 "worker-name-placeholder"
-  // ... 其他配置（确认 D1 绑定也在里面）
+  "name": "flare-blog",
   "d1_databases": [
     {
       "binding": "DB",
